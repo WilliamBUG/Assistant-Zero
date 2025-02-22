@@ -48,5 +48,50 @@ All these hardcore features? They’re getting a **personalized twist** as the k
 
 # 📍 **Assistant-Zero Roadmap** 
 
+---
 
+In the first stage, we investigate the function-calling capability of VLMs. 
+
+### 📌 **Stage 1: Visual Agent (Q1 2025)**
+✅ Build offline eval pipeline (Android control + AITZ + multimodal tasks)  
+✅ Debug the training framework, and run the first batch.  
+✅ Set up + debug the Android World framework. 
+⬜ Develop agents for online interaction experiments. 
+⬜ Design algorithm + produce data. 
+⬜ Test VLMs with SFT for function calls.
+⬜ Test VLMs with RL for function calls.
+⬜ Quantize + deploy to phones
+⬜ Open source preparation
+
+---
+
+### What’s Next? The Sky’s the Limit! ☁️
+- Summarization and rooter: exploring the 
+- Scale up with personalization: More apps, more tasks, more personalization.  
+- Open-source the eval pipeline and our agent design framework—let’s grow this together!
+
+
+# 🌟 **Contributors**  
+
+**Assistant-Zero** project is currently supported by several researchers and engineers with passion to the *on-device ultimate personal intelligent assistant*. 
+
+🛠 All contributors have **contributed equally** to the development and progress of **Assistant-Zero**. Contributions are listed in no particular order.
+
+- 👨‍💻 **Tan Xiaoyu** – Project Lead, Agent Design, Training
+- 👨‍💻 **Qu Chao** – Algorithm Design, Training
+- 👨‍💻 **Hao Jiaran** - Evaluation, Agent Design, Simulation
+- 👨‍💻 **Yao Tianchu** - Data Pipeline, Training
+- 👨‍💻 **Lu Dakuan** - Evaluation, Data Pipeline
+- 👨‍💻 **Hu Hongqing** - Model Quantization, Deployment
+- 👨‍💻 **Songliu Yihan** - Training
+
+## Join the Assistant-Zero Revolution! 🌟
+
+We’re calling all **researchers, developers, and AI dreamers** to jump in and shape the future of personal assistants! If you’re hyped about *ultimate personal intelligent assistant*, here’s how you can get involved:  
+⭐ **Star this repo ⭐** – Show some love and spread the word!  
+🚀 **Test the pipeline** – Try it out and tell us what rocks (or doesn’t)!  
+🛠 **Fork and contribute** – Every line of code or idea pushes us forward!  
+💡 **Brainstorm with us** – Share your wild ideas and tech insights!  
+
+We’re gearing up for a big **contributor wave in Q2 2025** (April-Jun)—think epic collabs and breakthroughs! Keep an eye out for updates, and let’s craft the ultimate **on-device intelligent assistant** together! 🚀🔥 
 
