@@ -51,20 +51,21 @@ All these hardcore features? They’re getting a **personalized twist** as the k
 In the first stage, we investigate the function-calling capability of VLMs. 
 
 ### 📌 **Stage 1: Visual Agent (Q1 2025)**
-✅ Build offline eval pipeline (Android control + AITZ + multimodal tasks)  
-✅ Debug the training framework, and run the first batch.  
-✅ Set up + debug the Android World framework. 
-⬜ Develop agents for online interaction experiments. 
-⬜ Design algorithm + produce data. 
-⬜ Test VLMs with SFT for function calls.
-⬜ Test VLMs with RL for function calls.
-⬜ Quantize + deploy to phones
-⬜ Open source preparation
+
+- ✅ Build offline eval pipeline (Android control + AITZ + multimodal tasks)  
+- ✅ Debug the training framework, and run the first batch.  
+- ✅ Set up + debug the Android World framework. 
+- ⬜ Develop agents for online interaction experiments. 
+- ⬜ Design algorithm + produce data. 
+- ⬜ Test VLMs with SFT for function calls.
+- ⬜ Test VLMs with RL for function calls.
+- ⬜ Quantize + deploy to phones
+- ⬜ Open source preparation
 
 ---
 
 ### What’s Next? The Sky’s the Limit! ☁️
-- Summarization and rooter: exploring the 
+- Summarization and rooter: exploring the next key features.
 - Scale up with personalization: More apps, more tasks, more personalization.  
 - Open-source the eval pipeline and our agent design framework—let’s grow this together!
 
