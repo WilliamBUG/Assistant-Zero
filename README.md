@@ -48,8 +48,6 @@ All these hardcore features? They’re getting a **personalized twist** as the k
 
 # 📍 **Assistant-Zero Roadmap** 
 
----
-
 In the first stage, we investigate the function-calling capability of VLMs. 
 
 ### 📌 **Stage 1: Visual Agent (Q1 2025)**
