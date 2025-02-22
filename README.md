@@ -46,6 +46,7 @@ Here’s where it gets clever: **router capability**. Picture this—an assistan
 ### (4) The Secret Sauce? Personalization 🎨  
 All these hardcore features? They’re getting a **personalized twist** as the killer selling point of *ultimate personal intelligent assistant*. This isn’t just an assistant—it’s *your* assistant, tailored to you, your vibe, and your needs. Because the future isn’t one-size-fits-all—it’s uniquely yours.
 
-# **Assistant-Zero Roadmap** 📍  
+# 📍 **Assistant-Zero Roadmap** 
+
 
 
