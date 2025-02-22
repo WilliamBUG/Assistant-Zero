@@ -12,7 +12,7 @@ The world of large language models (LLMs) and multimodal AI has exploded with in
 That’s where **Assistant-Zero** comes in! 🎉 Our mission is to explore and build the tech stack for the **ultimate personal AI assistant**. We’re diving into the future head-first—developing cutting-edge model techniques and collaborating with the community to shape the next generation of personal assistants. 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/WilliamBUG/Assistant-Zero/main/assets/az_style.webp" width="300"/>
+    <img src="https://raw.githubusercontent.com/WilliamBUG/Assistant-Zero/main/assets/az_style.webp" width="60%"/>
 <p>
 
 ## Our Vision for the Ultimate Personal Assistant 👀
