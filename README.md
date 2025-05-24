@@ -2,6 +2,13 @@
     <img src="https://raw.githubusercontent.com/WilliamBUG/Assistant-Zero/main/assets/az-logo.png" width="300"/>
 <p>
 
+> **🆕 Latest Update (May 2025):**  
+> We have successfully released the **initial checkpoint** of the **Assistant-Zero** project, prepared for the next phase of reinforcement learning. This stage focuses on visual agent training via a complete pipeline—ranging from data generation to supervised fine-tuning in simulation environments. This checkpoint also serves as the evaluation baseline for our reinforcement learning framework and acts as the initialization point for subsequent reinforcement learning stages. We have built a full Android-based evaluation pipeline and conducted initial experiments on [Android World](https://github.com/google-research/android_world) and [Android Control](https://github.com/google-research/google-research/tree/master/android_control) tasks. The first checkpoint is now available on [Hugging Face](https://huggingface.co/your-link). These results demonstrate the effectiveness of our data augmentation and training strategies for function-capable visual agents.
+
+
+---
+
+
 # Assistant-Zero: Pioneering the Future of Personal AI Assistants
 
 ## 1. Welcome to Assistant-Zero! 🚀  
