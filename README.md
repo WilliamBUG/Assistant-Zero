@@ -48,18 +48,18 @@ All these hardcore features? They’re getting a **personalized twist** as the k
 
 # 📍 **Assistant-Zero Roadmap** 
 
-In the first stage, we investigate the function-calling capability of VLMs. 
+In the first stage, we investigate the function-calling capability of VLMs and train the visual agent through reinforcement learning. 
 
-### 📌 **Stage 1: Visual Agent (Q1 2025)**
+### 📌 **Stage 1: Visual Agent (Q1-Q2 2025)**
 
 - ✅ Build offline eval pipeline (Android control + AITZ + multimodal tasks)  
 - ✅ Debug the training framework, and run the first batch.  
 - ✅ Set up + debug the Android World framework. 
-- ⬜ Develop agents for online interaction experiments. 
-- ⬜ Design algorithm + produce data. 
-- ⬜ Test VLMs with SFT for function calls.
+- ✅ Develop agents for online interaction experiments. 
+- ✅ Design algorithm + produce data. 
+- ✅ Test VLMs with SFT for function calls.
 - ⬜ Test VLMs with RL for function calls.
-- ⬜ Quantize + deploy to phones
+- ⬜ ~~Quantize + deploy to phones~~ (require further system research and adaptation)
 - ⬜ Open source preparation
 
 ---
@@ -80,17 +80,9 @@ In the first stage, we investigate the function-calling capability of VLMs.
 - 👨‍💻 **Qu Chao** – Algorithm Design, Training
 - 👨‍💻 **Hao Jiaran** - Evaluation, Agent Design, Simulation
 - 👨‍💻 **Yao Tianchu** - Data Pipeline, Training
-- 👨‍💻 **Lu Dakuan** - Evaluation, Data Pipeline
+- 👨‍💻 **Lu Dakuan** - Evaluation
 - 👨‍💻 **Hu Hongqing** - Model Quantization, Deployment
 - 👨‍💻 **Songliu Yihan** - Training
-
-## Join the Assistant-Zero Revolution! 🌟
-
-We’re calling all **researchers, developers, and AI dreamers** to jump in and shape the future of personal assistants! If you’re hyped about *ultimate personal intelligent assistant*, here’s how you can get involved:  
-⭐ **Star this repo ⭐** – Show some love and spread the word!  
-🚀 **Test the pipeline** – Try it out and tell us what rocks (or doesn’t)!  
-🛠 **Fork and contribute** – Every line of code or idea pushes us forward!  
-💡 **Brainstorm with us** – Share your wild ideas and tech insights!  
-
-We’re gearing up for a big **contributor wave in Q2 2025** (April-Jun)—think epic collabs and breakthroughs! Keep an eye out for updates, and let’s craft the ultimate **on-device intelligent assistant** together! 🚀🔥 
+- 👨‍💻 **Wei Lingfeng** - Inference, Android Simulation
+- 👨‍💻 **Ai Xi** - Technical Support
 
